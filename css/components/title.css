@@ -1,0 +1,33 @@
+body {
+  font-family: 'Work Sans', sans-serif;
+  background-size: cover;
+  cursor: default;
+}
+
+.title-info {
+  display: grid;
+  padding: 25% 20px;
+}
+
+h1 {
+  color: #D81159;
+  font-weight: 700;
+}
+
+.typewrite > .wrap {
+  border-right: 0.08em solid #007bff !important;
+  text-decoration: none!important;
+}
+
+.wrap:hover {
+  color: #007bff;
+  cursor: default;
+}
+
+a {
+  text-decoration: none!important;
+}
+
+p {
+  color: #D81159;
+}

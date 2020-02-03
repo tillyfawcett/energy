@@ -1,0 +1,13 @@
+.navbar-brand {
+  display: flex;
+  margin: none!important;
+}
+
+.energy-logo {
+  height: 50px;
+  padding-left: 20px;
+}
+
+.navbar-brand h1 {
+  padding: 5px;
+}
